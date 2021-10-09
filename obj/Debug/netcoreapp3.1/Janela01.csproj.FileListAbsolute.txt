@@ -1,0 +1,17 @@
+C:\Users\Marqu\source\repos\Tela01\Prova_01\bin\Debug\netcoreapp3.1\Janela01.exe
+C:\Users\Marqu\source\repos\Tela01\Prova_01\bin\Debug\netcoreapp3.1\Janela01.deps.json
+C:\Users\Marqu\source\repos\Tela01\Prova_01\bin\Debug\netcoreapp3.1\Janela01.runtimeconfig.json
+C:\Users\Marqu\source\repos\Tela01\Prova_01\bin\Debug\netcoreapp3.1\Janela01.runtimeconfig.dev.json
+C:\Users\Marqu\source\repos\Tela01\Prova_01\bin\Debug\netcoreapp3.1\Janela01.dll
+C:\Users\Marqu\source\repos\Tela01\Prova_01\bin\Debug\netcoreapp3.1\Janela01.pdb
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.csproj.AssemblyReference.cache
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.csproj.GenerateResource.cache
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.AssemblyInfoInputs.cache
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.AssemblyInfo.cs
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.csproj.CoreCompileInputs.cache
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.dll
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.pdb
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.genruntimeconfig.cache
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Prova_01.tbcalcular.resources
+C:\Users\Marqu\source\repos\Tela01\Prova_01\obj\Debug\netcoreapp3.1\Janela01.Properties.Resources.resources
